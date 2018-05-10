@@ -1,0 +1,12 @@
+.vote-button-group {
+  display: flex;
+  width: 100%;
+}
+
+button.vote-button {
+    flex-direction: row;
+    flex: 1;
+    margin: 20px;
+    height: 40px;
+    border-radius: 5%;
+}

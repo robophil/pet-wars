@@ -1,0 +1,28 @@
+{
+  "name": "pet-wars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "client": "next",
+    "server": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-css": "^0.1.5",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "chart.js": "^2.7.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "next": "^5.1.0",
+    "pusher": "^2.0.0",
+    "pusher-js": "^4.2.2",
+    "react": "^16.3.2",
+    "react-chartjs-2": "^2.7.2",
+    "react-dom": "^16.3.2",
+    "react-table": "^6.8.2"
+  },
+  "devDependencies": {
+    "webpack": "3.1.0"
+  }
+}
