@@ -12,7 +12,7 @@ git clone git@github.com:Robophil/pet-wars.git
 yarn
 
 # Pusher credentials
-Use pusher credentials from your dashboard in `pages/index.js` and `server.js`
+Use pusher credentials from your dashboard in pages/index.js and server.js
 
 # start server
 yarn run server
